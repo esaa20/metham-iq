@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844040717057",
+    "project_id": "metham-d8945",
+    "storage_bucket": "metham-d8945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844040717057:android:8d7c0d53d1a8c8a3611100",
+        "android_client_info": {
+          "package_name": "com.midas.metham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844040717057-2hr6dnpgdt7grcdtthbbdugobi1u8r33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3Q3Z7_oif622izH7MmPv7ubn8J08vxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844040717057-2hr6dnpgdt7grcdtthbbdugobi1u8r33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844040717057-6qinn07puknophn413uau9q1brl12dto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midas.metham"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
